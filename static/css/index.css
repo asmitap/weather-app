@@ -1,0 +1,35 @@
+.dash {
+    background: #0a3f63;
+    opacity: 0.5;
+    height: 400px;
+    width: 600px;
+    text-align: center;
+    color: white;
+    line-height: 10px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    padding-top: 120px;
+    border: 1px solid #ede1e199;
+    margin: 0 auto;
+    margin-top: 85px;
+
+}
+.for{
+    color:white;
+}
+input[type=text] {
+  border: 2px solid grey;
+  border-radius: 6px;
+  height:40px;
+  width:280px;
+  color:blue;
+}
+
+button{
+  border: 2px solid grey;
+  border-radius: 6px;
+  height:40px;
+  width:120px;
+}
+
+
